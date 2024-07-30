@@ -1,3 +1,5 @@
+package Git.two.Javacode;
+
 class Calc
 {
 	public int add(int n1, int n2)
@@ -32,7 +34,7 @@ class VeryAdvCalc extends AdvCalc
 	}
 }
 
-public class Demo
+public class L10_4SingleAndMultilevelInheritance
 {
 	public static void main(String a[]) 
 	{
@@ -50,4 +52,3 @@ public class Demo
 		
 	}
 }
-

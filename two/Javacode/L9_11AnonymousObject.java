@@ -1,3 +1,5 @@
+package Git.two.Javacode;
+
 class A
 {
 	public A()
@@ -11,10 +13,11 @@ class A
 }
 
 
-public class Demo
+public class L9_11AnonymousObject
 {
 	public static void main(String a[]) 
 	{
+		@SuppressWarnings("unused")
 		int marks;
 		marks=99;
 		
@@ -28,5 +31,3 @@ public class Demo
 		obj.show();
 	}
 }
-
-

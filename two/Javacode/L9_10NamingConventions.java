@@ -1,7 +1,10 @@
-public class Demo
+package Git.two.Javacode;
+
+public class L9_10NamingConventions
 {
 	public static void main(String a[]) 
 	{
+		System.out.println("Hello");
 	}
 }
 

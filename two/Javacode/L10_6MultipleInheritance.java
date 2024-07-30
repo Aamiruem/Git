@@ -1,3 +1,5 @@
+package Git.two.Javacode;
+
 class A{
 	
 }
@@ -11,7 +13,7 @@ class C extends B{
 	
 }
 
-public class Demo{
+public class L10_6MultipleInheritance{
 	public static void main(String args[])
 	{
 		
